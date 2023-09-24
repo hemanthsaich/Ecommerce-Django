@@ -1,0 +1,44 @@
+@charset "ISO-8859-1";
+
+.button-container{
+	
+	width:auto;
+	height:auto;
+	text-align:center;
+}
+
+.button-container button{
+	background-color: white;
+	border: 2px solid black;
+	outline: none;
+	cursor: pointer;
+	padding: 14px 16px;
+	transition: 0.3s;
+	border-radius: 10px;
+	margin-left:20px;
+}
+
+.button-container button:hover{
+	background-color: #ddd;
+}
+
+.button-container button:active{
+	background-color: #000080;
+	color: white;
+}
+
+
+.tabcontent{
+	display: none;
+	margin: 100px auto 100px auto; 
+	text-align:center;
+	justify-content: center;
+}
+.td-image{
+	width:250px;
+	height:250px;
+}
+.view-customer-table,.view-products-table{
+	margin-left:auto;
+	margin-right:auto;
+}

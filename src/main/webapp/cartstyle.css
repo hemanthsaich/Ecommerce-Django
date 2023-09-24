@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+.cart-heading,.cart-total{
+	background-color:black;
+	text-align:center;
+}
+.cart-total{
+	position:fixed;
+	bottom:0;
+	width:100%;
+}
+.cart-heading h1{
+	color:white;
+}
+.cart-total h1{
+	color:white;
+}
+
+
+.product{
+	width:300px;
+	height:300px;
+	display:inline-block;
+	border: 2px solid gray;
+	margin-right:100px;
+	padding:auto auto;
+}
