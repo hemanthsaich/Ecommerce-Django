@@ -12,7 +12,8 @@
  </ul>
 <p>The project has various modules: </p>
 <p>&#9830; Register Module!</p>
-<img src="https://user-images.githubusercontent.com/92751444/235295171-4feb267a-e5ce-48da-9cd1-ec2029001c3a.png" align="center" alt="Register Module">
+![image](https://github.com/hemanthsaich/Ecommerce-Website/assets/91429511/2e2eba9a-c3fd-4474-b03a-ac62a5d1fa11)
+
 <p>&#9830; Login Module!</p>
 <img src="https://user-images.githubusercontent.com/92751444/235295992-58e2abd3-8dac-43c1-a46a-3b0938600e70.png" align="center" alt="Login Module">
 <p>&#9830; Customer page showing products!</p>
