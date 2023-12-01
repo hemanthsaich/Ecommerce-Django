@@ -1,4 +1,6 @@
 # Ecommerce-website
+Register Module!
+![image](https://github.com/hemanthsaich/Ecommerce-Website/assets/91429511/2e2eba9a-c3fd-4474-b03a-ac62a5d1fa11)
 <h2>An ecommerce developed using Java, Jsp, Servlets, JDBC, Tomcat, Eclipse, HTML and CSS</h2>
 <p>It consists of a UI which is developed using HTML, CSS and JSP.</p>
 </p>The processing takes palce with the help of Servelts and Java. </p>
@@ -11,8 +13,6 @@
 <li>Import the whole source code into Ecipse and run the project</li>
  </ul>
 <p>The project has various modules: </p>
-<p>&#9830; Register Module!</p>
-![image](https://github.com/hemanthsaich/Ecommerce-Website/assets/91429511/2e2eba9a-c3fd-4474-b03a-ac62a5d1fa11)
 
 <p>&#9830; Login Module!</p>
 <img src="https://user-images.githubusercontent.com/92751444/235295992-58e2abd3-8dac-43c1-a46a-3b0938600e70.png" align="center" alt="Login Module">
