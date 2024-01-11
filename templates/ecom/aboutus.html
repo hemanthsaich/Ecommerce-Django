@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en" dir="ltr">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <title>ShopNest</title>
+  <style media="screen">
+    .footer{
+      position: fixed;
+    }
+  </style>
+</head>
+
+<body style="background-color:#f7f7f7;">
+  {%if request.user.is_authenticated%}
+    {% include "ecom/customer_navbar.html" %}
+  {%else%}
+    {% include "ecom/navbar.html" %}
+  {%endif%}
+  <br><br><br>
+<h3 style="text-align:center;">"Welcome to ShopNest, where your shopping experience is our top priority. We are dedicated to providing a diverse range of high-quality products, from fashion to electronics and home essentials. Our user-friendly platform ensures a seamless and secure shopping journey. At  ShopNest Name, we're not just an online marketplace; we're a community that values your satisfaction. Trust in our commitment to quality, exceptional customer service, and a hassle-free shopping experience. Explore our curated selection and make ShopNest your go-to destination for all your needs." </h3>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+  {% include "ecom/footer.html" %}
+</body>
+<!--
+developed By : Hemanth Sai
+-->
+
+</html>
