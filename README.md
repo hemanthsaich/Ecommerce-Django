@@ -1,30 +1,63 @@
-# Ecommerce-website
+# ShopNest E-commerce Website
 
-![image](https://github.com/hemanthsaich/Ecommerce-Website/assets/91429511/2e2eba9a-c3fd-4474-b03a-ac62a5d1fa11)
-<h2>An ecommerce developed using Java, Jsp, Servlets, JDBC, Tomcat, Eclipse, HTML and CSS</h2>
-<p>It consists of a UI which is developed using HTML, CSS and JSP.</p>
-</p>The processing takes palce with the help of Servelts and Java. </p>
-<p>At the end, we have JDBC to store the information when necessary. </p>
-<p>To run this project you need to install</p>
-<ul>
-<li>Eclipse</li>
-<li>Tomcat Server (Embed the server into Eclipse. Open it in local host and see its working)</li>
-<li>Oracle Database 10g Express Edition (Create a database with tables PRODUCT, CUSTOMERS)</li>
-<li>Import the whole source code into Ecipse and run the project</li>
- </ul>
-<p>The project has various modules: </p>
-<p>&#9830; Register Module!</p>
-<img src="https://github.com/hemanthsaich/Ecommerce-Website/assets/91429511/2e2eba9a-c3fd-4474-b03a-ac62a5d1fa11" align="center" alt="Login Module">
-<p>&#9830; Login Module!</p>
-<img src="https://user-images.githubusercontent.com/92751444/235295992-58e2abd3-8dac-43c1-a46a-3b0938600e70.png" align="center" alt="Login Module">
-<p>&#9830; Customer page showing products!</p>
-<img src="https://user-images.githubusercontent.com/92751444/235296048-5e4f3006-2e7b-4948-8d3b-376651cd45a1.png" align="center" alt="Customer Page Module">
-<p>&#9830; Cart showing items added by customer!</p>
-<img src="https://user-images.githubusercontent.com/92751444/235296069-6ed2dc7b-0833-427d-966b-8d282064024e.png" align="center" alt="Cart">
-<p>&#9830; Admin module which has the functionalities:</p>
- <p>&#9824; Check customers info:</p>
- <img src="https://user-images.githubusercontent.com/92751444/235296099-66dab34c-f419-439c-a6ae-caebb2cef713.png" align="center" alt="Cusotmer info">
- <p>&#9824; View all the products listed:</p>
- <img src="https://user-images.githubusercontent.com/92751444/235296115-fbd5a02e-8935-4380-b20b-a660434247c9.png" align="center" alt="Products info">
- <p>&#9824; Add a new product to the catalogue:</p>
- <img src="https://user-images.githubusercontent.com/92751444/235296132-e1a2afb0-e8ba-487b-aa7e-c604a10e8b48.png" align="center" alt="Adding product">
+## Overview
+
+ShopNest is a modern and user-friendly e-commerce website built using Python, Django, HTML, CSS, and JavaScript. This README.md file provides an overview of the project structure, installation instructions, and key features.
+
+## Table of Contents
+
+```markdown
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Project Structure](#project-structure)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Contributing](#contributing)
+- [License](#license)
+```
+# Getting Started
+## Prerequisites
+Before you begin, ensure you have the following installed:
+
+Python (>=3.6)
+Django
+Node.js
+npm
+Installation
+Clone the repository:
+```
+git clone https://github.com/hemanthsaich/ShopNest-Ecommerce.git
+cd ShopNest-Ecommerce
+```
+## Install Python dependencies:
+
+```
+pip install -r requirements.txt
+```
+## Start the development server:
+
+```
+python manage.py runserver
+Your ShopNest e-commerce website will be accessible at http://localhost:8000/.
+```
+## Features
+- User authentication and authorization
+- Product catalog with detailed product pages
+- Shopping cart functionality
+- Order processing and history
+- Search functionality
+- Responsive design for various screen sizes
+  
+## Technologies Used
+
+- **Backend:** Python, Django
+- **Frontend:** HTML, CSS, JavaScript
+- **Database:** SQLite (for development, consider using a more robust database for production)
+- **Version Control:** Git
+- **Package Management:** npm
+## Contributing
+We welcome contributions! Please follow the contributing guidelines to get started.
+
+## License
+This project is licensed under the MIT License. Feel free to use, modify, and distribute as per the terms of the license
