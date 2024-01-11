@@ -4,18 +4,6 @@
 
 ShopNest is a modern and user-friendly e-commerce website built using Python, Django, HTML, CSS, and JavaScript. This README.md file provides an overview of the project structure, installation instructions, and key features.
 
-## Table of Contents
-
-```markdown
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
-- [Project Structure](#project-structure)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
-```
 # Getting Started
 ## Prerequisites
 Before you begin, ensure you have the following installed:
