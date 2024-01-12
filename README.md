@@ -15,7 +15,7 @@ npm
 Installation
 Clone the repository:
 ```
-git clone https://github.com/hemanthsaich/ShopNest-Ecommerce.git
+git clone https://github.com/hemanthsaich/ShopNest-Ecommerce
 cd ShopNest-Ecommerce
 ```
 ## Install Python dependencies:
