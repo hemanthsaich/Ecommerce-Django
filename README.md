@@ -1,4 +1,5 @@
 # ShopNest E-commerce Website
+![ShopNest Thumbnail](https://github.com/hemanthsaich/ShopNest-Ecommerce/assets/91429511/b01df0aa-ee3f-4022-a5a3-e90b5174c719)
 
 ## Overview
 
